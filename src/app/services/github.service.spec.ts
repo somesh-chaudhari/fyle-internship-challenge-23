@@ -34,6 +34,4 @@ describe('GithubService', () => {
     expect(req.request.method).toEqual('GET');
     req.flush(dummyUser);
   });
-
-  // Add more test cases as needed
 });
