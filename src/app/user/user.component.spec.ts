@@ -40,6 +40,4 @@ describe('UserComponent', () => {
 
     expect(component.user).toEqual(user);
   });
-
-  // Add more test cases as needed
 });
